@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "2.3",
+  "versionCode": 9,
+  "versionName": "2.3.1",
   "apk": "shachar.apk",
-  "sha256": "73c1e7965e861e0664941277b779ddc8fcaa070cd1e2c769848d04223025065b",
-  "notes": "פתיחה קולנועית"
+  "sha256": "ddf03cf69328699f379b88e612d3aa0be1db8420275ab56fe358823e59da404b",
+  "notes": "פתיחה קולנועית, ועדכונים מהריפו Alarmapp."
 }
