@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "2.2",
+  "versionCode": 8,
+  "versionName": "2.3",
   "apk": "shachar.apk",
-  "sha256": "d72e7166cea38ff477ff756556268a06e32e9448664ff6a40d845ed285c5670d",
-  "notes": "עדכון אוטומטי ברקע"
+  "sha256": "73c1e7965e861e0664941277b779ddc8fcaa070cd1e2c769848d04223025065b",
+  "notes": "פתיחה קולנועית"
 }
