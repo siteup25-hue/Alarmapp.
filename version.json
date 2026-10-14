@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "2.3.1",
+  "versionCode": 10,
+  "versionName": "2.3.2",
   "apk": "shachar.apk",
-  "sha256": "ddf03cf69328699f379b88e612d3aa0be1db8420275ab56fe358823e59da404b",
-  "notes": "פתיחה קולנועית, ועדכונים מהריפו Alarmapp."
+  "sha256": "77a67ce3d17258c9eb6826869a03bab829b40a6c67601ab98f2de301e67159e9",
+  "notes": "יציבות: התקנה שקטה כשיוצאים מהאפליקציה, התאוששות ממסך שחור"
 }
