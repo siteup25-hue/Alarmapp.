@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "2.4",
+  "versionCode": 12,
+  "versionName": "2.4.1",
   "apk": "shachar.apk",
-  "sha256": "ccd11f5b7adb4d124cb4477e13891f6c6aed21b17c948c570f1954928e160e5e",
-  "notes": "משימה לכיבוי: לצלם דשא אמיתי"
+  "sha256": "a24f829f21065565ab1ae7c73a7d486519d6d2b5f9e5c02976596dd797108fcb",
+  "notes": "דיבאג חלק: תפיסת שגיאות, מסך דיבאג, פחות קריסות"
 }
