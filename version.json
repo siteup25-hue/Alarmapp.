@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "2.3.2",
+  "versionCode": 11,
+  "versionName": "2.4",
   "apk": "shachar.apk",
-  "sha256": "77a67ce3d17258c9eb6826869a03bab829b40a6c67601ab98f2de301e67159e9",
-  "notes": "יציבות: התקנה שקטה כשיוצאים מהאפליקציה, התאוששות ממסך שחור"
+  "sha256": "ccd11f5b7adb4d124cb4477e13891f6c6aed21b17c948c570f1954928e160e5e",
+  "notes": "משימה לכיבוי: לצלם דשא אמיתי"
 }
