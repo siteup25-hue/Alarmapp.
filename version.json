@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "2.5.1",
+  "versionCode": 15,
+  "versionName": "2.5.2",
   "apk": "shachar.apk",
-  "sha256": "33008ac4d4b74e683cbf0db42b07759d090162c23cddb55b244a49403faed711",
-  "notes": "דשא בלי מעבר להליכה; חלופה: אור שמש אמיתי בחוץ"
+  "sha256": "ba4e3dd1b6b205d71a3692587218214d5f4b605df117810b4e5189c195ebc72c",
+  "notes": "הדגמה: אפשר לנסות לצלם דשא, ויציאה בלחיצה"
 }
