@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "2.5.2",
+  "versionCode": 16,
+  "versionName": "2.6",
   "apk": "shachar.apk",
-  "sha256": "ba4e3dd1b6b205d71a3692587218214d5f4b605df117810b4e5189c195ebc72c",
-  "notes": "הדגמה: אפשר לנסות לצלם דשא, ויציאה בלחיצה"
+  "sha256": "afadbe093d8f13119e4d55b5399fde8fb7562885d0db7e79346d530595dbf89e",
+  "notes": "צעדים אמיתיים בלבד, ואפשר לבחור דשא וצעדים יחד"
 }
