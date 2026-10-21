@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "2.4.1",
+  "versionCode": 13,
+  "versionName": "2.5",
   "apk": "shachar.apk",
-  "sha256": "a24f829f21065565ab1ae7c73a7d486519d6d2b5f9e5c02976596dd797108fcb",
-  "notes": "דיבאג חלק: תפיסת שגיאות, מסך דיבאג, פחות קריסות"
+  "sha256": "9529fdbc3502290d708e3d3b7eca46a42611589e6a86b1387a575e803bb1f3dd",
+  "notes": "משימת צעדים, פנס בחושך, אין דשא? ללכת במקום"
 }
