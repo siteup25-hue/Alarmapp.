@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "2.5",
+  "versionCode": 14,
+  "versionName": "2.5.1",
   "apk": "shachar.apk",
-  "sha256": "9529fdbc3502290d708e3d3b7eca46a42611589e6a86b1387a575e803bb1f3dd",
-  "notes": "משימת צעדים, פנס בחושך, אין דשא? ללכת במקום"
+  "sha256": "33008ac4d4b74e683cbf0db42b07759d090162c23cddb55b244a49403faed711",
+  "notes": "דשא בלי מעבר להליכה; חלופה: אור שמש אמיתי בחוץ"
 }
