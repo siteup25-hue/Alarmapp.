@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "2.6",
+  "versionCode": 17,
+  "versionName": "2.7",
   "apk": "shachar.apk",
-  "sha256": "afadbe093d8f13119e4d55b5399fde8fb7562885d0db7e79346d530595dbf89e",
-  "notes": "צעדים אמיתיים בלבד, ואפשר לבחור דשא וצעדים יחד"
+  "sha256": "4e96d1240d016e5d5ffdf354a3358bbd7991d5e9ddc5f3e62328b3300de1583e",
+  "notes": "הדשא נבדק באמת: מרקם, גוונים וזיהוי תמונה. מחברת ירוקה לא עוברת"
 }
