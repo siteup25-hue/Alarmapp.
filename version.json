@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "2.7",
+  "versionCode": 18,
+  "versionName": "2.8",
   "apk": "shachar.apk",
-  "sha256": "4e96d1240d016e5d5ffdf354a3358bbd7991d5e9ddc5f3e62328b3300de1583e",
-  "notes": "הדשא נבדק באמת: מרקם, גוונים וזיהוי תמונה. מחברת ירוקה לא עוברת"
+  "sha256": "2021a6564a6c9bb24ca2a907a26fd5da617c695742e801e2bf1afbeaae399914",
+  "notes": "ספירת צעדים חדשה שלא תלויה בגוגל, וכפתור כיבוי אם החיישנים לא עונים"
 }
