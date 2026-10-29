@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "2.8",
+  "versionCode": 19,
+  "versionName": "2.9",
   "apk": "shachar.apk",
-  "sha256": "2021a6564a6c9bb24ca2a907a26fd5da617c695742e801e2bf1afbeaae399914",
-  "notes": "ספירת צעדים חדשה שלא תלויה בגוגל, וכפתור כיבוי אם החיישנים לא עונים"
+  "sha256": "c4b736a854ea6165e4adee7945454027f250e04b9ace0935dcc2066da59f44c5",
+  "notes": "השכמה חד־פעמית שנמחקת לבד, ואפליקציה חלקה יותר"
 }
